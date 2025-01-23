@@ -21,3 +21,4 @@ For example, image file: 4.jpg
 2. Custom train pretrained yolo model
 3. Putting the video 
 4. Output video with real-time PSI values  
+![image](https://github.com/user-attachments/assets/7fae65f8-613d-4ddf-9d70-97639c577870)
